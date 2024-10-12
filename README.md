@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwisungkk)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=glnthd02)](https://solved.ac/glnthd02/)
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=C++&logoColor=white">
