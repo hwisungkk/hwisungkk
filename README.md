@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=glnthd02)](https://solved.ac/glnthd02/)
 [![CodeForces Profile](https://cf.leed.at?id=glnthd02)](https://codeforces.com/profile/glnthd02)
 
+<img src="https://dreamhack-readme-stats.vercel.app/api/stats?username=꿈나라역1번출구" />
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=C++&logoColor=white">
 
